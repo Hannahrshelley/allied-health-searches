@@ -1,0 +1,7 @@
+Proximity searching:
+(speech OR "speech-language" OR "speech and language") 
+N1 / Near/1 N/1 ADJ1
+(patholog* OR therap*)
+
+No proximity searching:
+"speech patholog*" OR "speech-language patholog*" OR "speech and language patholog*" OR "speech therap*" OR "speech-language therap*" OR "speech and language therap*"
