@@ -1,6 +1,6 @@
 Proximity searching:
 (speech OR "speech-language" OR "speech and language") 
-N1 / Near/1 N/1 ADJ1
+N1
 (patholog* OR therap*)
 
 No proximity searching:
