@@ -1,2 +1,2 @@
 # allied-health-searches
-Common search strings in Allied health (very much a work in progress)
+Common keyword search strings in Allied health (very much a work in progress)
