@@ -9,3 +9,5 @@ A: It will exclude articles about both animal and human (you still want the huma
 
 Q: Isn't this a double negative? Why not search "AND human"?
 A: some relevant articles might not have the word "human" indexed- it is implied.  
+
+Inspired by The Cochrane Highly Sensitive Search Strategy (HSSS) for identifying randomized trials in MEDLINE.  https://training.cochrane.org/handbook/version-6/chapter-4-tech-suppl
