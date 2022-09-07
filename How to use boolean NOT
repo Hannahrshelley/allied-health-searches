@@ -1,7 +1,11 @@
-For articles about cats, but not dogs.
+To exclude aticles about animals. 
 
-S1. cats
-S2. dogs NOT cats
+S1. My search (articles I want)
+S2. animal NOT human (articles I don't want)
 S3. S1 NOT S2
 
-(do not use "cats NOT dogs" or you will delete cat articles that happen to mention dogs.) 
+Q: Why not simply add "NOT animals" to the search? 
+A: It will exclude articles about both animal and human (you still want the human articles).
+
+Q: Isn't this a double negative? Why not search "AND human"?
+A: some relevant articles might not have the word "human" indexed- it is implied.  
