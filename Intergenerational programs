@@ -1,5 +1,5 @@
 CINAHL (EBSCO)
 
-TI ( intergenerational* OR inter-generational* OR multigenerational* OR multi-generational* ) OR AB ( intergenerational* OR inter-generational* OR multigenerational* OR multi-generational* ) OR (MH "Intergeneational relations")
+TI ( intergenerational* OR inter-generational* OR multigenerational* OR multi-generational* ) OR AB ( intergenerational* OR inter-generational* OR multigenerational* OR multi-generational* ) OR (MH "Intergenerational relations")
 AND
 TI ( program* ) OR AB ( program* ) OR (MH "Community Programs") OR (MH "Program Development+") 
