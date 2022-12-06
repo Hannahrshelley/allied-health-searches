@@ -1,5 +1,11 @@
-CINAHL (EBSCO)
+PubMED
+("program*"[All Fields] OR ("Program Development"[MeSH Terms] OR "Program Evaluation"[MeSH Terms])) AND ("intergenerational*"[All Fields] OR "inter generational*"[All Fields] OR "multigenerational*"[All Fields] OR "multi generational*"[All Fields] OR "Intergenerational Relations"[MeSH Terms])
 
-TI ( intergenerational* OR inter-generational* OR multigenerational* OR multi-generational* ) OR AB ( intergenerational* OR inter-generational* OR multigenerational* OR multi-generational* ) OR (MH "Intergenerational relations")
-AND
-TI ( program* ) OR AB ( program* ) OR (MH "Community Programs") OR (MH "Program Development+") 
+Embase Ovid
+(program*.af. OR exp "Health Program"/) AND (intergenerational* OR inter-generational* OR "inter generational" OR multigenerational* OR multi-generational* OR "multi generational*").af.
+
+CINAHL EBSCO
+(program* OR (MH "Program Development+") OR (MH "Community Programs")) AND (intergenerational* OR "inter generational*" OR multigenerational* OR "multi generational*" OR (MH "Intergenerational Relations"))
+
+ERIC EBSCO
+(program* AND ( intergenerational* OR inter-generational* OR multigenerational* OR multi-generational* )) OR (DE "Intergenerational Programs")
