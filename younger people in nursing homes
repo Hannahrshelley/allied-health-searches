@@ -1,0 +1,9 @@
+PubMed
+("younger people"[All Fields] OR "young people"[All Fields] OR "young person*"[All Fields] OR "younger person*"[All Fields] OR "young resident*"[All Fields] OR "younger resident*"[All Fields] OR "under 65"[All Fields] OR "under age 65"[All Fields]) AND ("aged care"[All Fields] OR "nursing home*"[All Fields] OR "old people home*"[All Fields] OR "old people's home*"[All Fields] OR "old age home*"[All Fields] OR ("Nursing Homes"[MeSH Terms] OR "Homes for the Aged"[MeSH Terms]))
+
+Embase OVID
+("younger people" OR "young people" OR "young person*" OR "younger person*" OR "young resident*" OR "younger resident*" OR "under 65" OR "under age 65").af. and (("aged care" OR "nursing home*" OR "old people home*" OR "old people's home*" OR "old age home*").af. OR (exp "nursing home"/ OR exp "home for the aged"/ OR "nursing home patient"/))
+
+CINAHL EBSCO
+("younger people" OR "young people" OR "young person*" OR "younger person*" OR "young resident*" OR "younger resident*" OR "under 65" OR "under age 65") AND ("aged care" OR "nursing home*" OR "old people home*" OR "old people's home*" OR "old age home*" OR ((MH "Nursing Home Patients") OR (MH "Nursing Homes+") OR (MH "Housing for Older Persons")))
+
