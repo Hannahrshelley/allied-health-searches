@@ -1,7 +1,8 @@
-Proximity searching:
-(speech OR "speech-language" OR "speech and language") 
-N1
-(patholog* OR therap*)
+PubMED
+"speech therap*"[All Fields] OR "speech patholog*"[All Fields] OR "speech language therap*"[All Fields] OR "speech language patholog*"[All Fields] OR "speech and language therap*"[All Fields] OR "speech and language patholog*"[All Fields] OR "Speech-Language Pathology"[MeSH Terms] OR "Rehabilitation of Speech and Language Disorders"[MeSH Terms] OR "Speech Sound Disorder"[Mesh Terms]
 
-No proximity searching:
-"speech patholog*" OR "speech-language patholog*" OR "speech and language patholog*" OR "speech therap*" OR "speech-language therap*" OR "speech and language therap*"
+Embase Ovid
+("speech therap*" OR "speech patholog*" OR "speech-language therap*" OR "speech-language patholog*" OR "speech language therap*" OR "speech language patholog*" OR "speech and language therap*" OR "speech and language patholog*").af. OR exp "speech and language rehabilitation"/ OR exp "speech language pathologist"/
+
+CINAHL EBSCO
+"speech therap*" OR "speech patholog*" OR "speech-language therap*" OR "speech-language patholog*" OR "speech language therap*" OR "speech language patholog*" OR "speech and language therap*" OR "speech and language patholog*" OR (MH "Speech-Language Pathology") OR (MH "Rehabilitation, Speech and Language+")
